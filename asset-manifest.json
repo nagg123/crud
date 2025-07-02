@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/http//nagg123.github.io/crud/static/css/main.35aaf223.css",
-    "main.js": "/http//nagg123.github.io/crud/static/js/main.6dab5651.js",
-    "index.html": "/http//nagg123.github.io/crud/index.html",
-    "main.35aaf223.css.map": "/http//nagg123.github.io/crud/static/css/main.35aaf223.css.map",
-    "main.6dab5651.js.map": "/http//nagg123.github.io/crud/static/js/main.6dab5651.js.map"
+    "main.css": "/crud/static/css/main.35aaf223.css",
+    "main.js": "/crud/static/js/main.6dab5651.js",
+    "index.html": "/crud/index.html",
+    "main.35aaf223.css.map": "/crud/static/css/main.35aaf223.css.map",
+    "main.6dab5651.js.map": "/crud/static/js/main.6dab5651.js.map"
   },
   "entrypoints": [
     "static/css/main.35aaf223.css",
